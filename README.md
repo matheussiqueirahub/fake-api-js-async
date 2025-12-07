@@ -1,4 +1,4 @@
-# 🚀 Simulação de API Assíncrona com JavaScript
+#  Simulação de API Assíncrona com JavaScript
 
 Este projeto implementa uma API fictícia em JavaScript para demonstrar o domínio de conceitos fundamentais de programação assíncrona, Promises e execução simulada de backend.
 
@@ -14,7 +14,7 @@ O projeto inclui um módulo de API (`api.js`) com operações de CRUD simuladas 
 -   **Node.js** (Ambiente de execução)
 -   **Async/Await** (Controle de fluxo)
 
-## 📦 Funcionalidades
+##  Funcionalidades
 
 A API simulada (`api.js`) oferece os seguintes métodos:
 
@@ -22,7 +22,7 @@ A API simulada (`api.js`) oferece os seguintes métodos:
 -   `createUser(user)`: Cria um novo usuário e retorna o objeto criado.
 -   `deleteUser(id)`: Remove um usuário pelo ID.
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
